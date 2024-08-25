@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/dhiren-yogi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiren-yogi23" height="30" width="40" /></a>
 <a href="https://fb.com/dhirenyogi.silentkiller?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhirenyogi.silentkiller?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/yogidhiren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogidhiren" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhiren yogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhiren yogi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dhiren_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhiren yogi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
